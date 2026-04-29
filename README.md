@@ -13,9 +13,9 @@ List all dependencies and their version needed to run the project as :
 |Role|Tool|Version|
 |:--|:--|:--|
 |VCS|Git SCM|[Download](https://git-scm.com/install/)|
-|IaC|Terraform|1.15 or higher|[Download](https://developer.hashicorp.com/terraform/install)|
-|IDE|VS Code|1.118 or higher|[Download](https://code.visualstudio.com/thank-you?dv=linux64_deb)|
-|Virtualization|Docker Engine|[Download](https://docs.docker.com/engine/install/)|
+|IaC|Terraform|[1.15 or higher](https://developer.hashicorp.com/terraform/install)|
+|IDE|VS Code|[1.118 or higher](https://code.visualstudio.com/thank-you?dv=linux64_deb)|
+|Virtualization|[Docker Engine](https://docs.docker.com/engine/install/)|
 
 ### Configuration
 
